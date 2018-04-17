@@ -1,0 +1,23 @@
+main {
+	width: 25rem !important;
+}
+
+.fa-github {
+	font-size: 5rem;
+}
+
+footer {
+	margin-top: 5rem !important;
+}
+
+.contact {
+	color: gray;
+}
+
+.row {
+	margin-top: 2rem;
+}
+
+.password.row {
+	margin-top: 0 !important;
+}
